@@ -8,5 +8,7 @@ namespace corsoDevOpsVS
 {
     public class Class1
     {
+        // modifica porchiacc
+        public int PrimaProprieta { get; set; }
     }
 }
