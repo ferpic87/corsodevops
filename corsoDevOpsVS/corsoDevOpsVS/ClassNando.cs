@@ -10,5 +10,6 @@ namespace corsoDevOpsVS
     {
         public int PrimaProprieta { get; set; }
         public int SecondaProprieta { get; set; }
+        public int TerzaProprieta { get; set; }
     }
 }
