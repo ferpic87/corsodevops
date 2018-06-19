@@ -8,5 +8,6 @@ namespace corsoDevOpsVS
 {
     public class Class1
     {
+        public int SecondaProprieta { get; set; }
     }
 }
