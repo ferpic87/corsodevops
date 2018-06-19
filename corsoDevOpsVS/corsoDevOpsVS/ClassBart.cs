@@ -8,5 +8,9 @@ namespace corsoDevOpsVS
 {
     class ClassBart
     {
+        public String getCiao()
+        {
+            return "ciao";
+        }
     }
 }
